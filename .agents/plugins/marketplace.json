@@ -1,0 +1,13 @@
+{
+  "name": "technolab-team",
+  "interface": { "displayName": "ТехноЛаб · Команда" },
+  "plugins": [
+    {
+      "name": "technolab-team",
+      "source": { "source": "local", "path": "./" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}
+

@@ -1,0 +1,30 @@
+{
+  "version": "0.1.0",
+  "style_version": 2,
+  "style_updated": "2026-11-03",
+  "sha256": {
+    ".agents/plugins/marketplace.json": "2bc50feb35f945f42298ee72dc005a09d316e17a6d17eedd254a4770a88146cc",
+    ".gitignore": "638fbd9e03861a49cd2cbd6b453a6cc1f39699b7a94c61e6d31aef6456d30df0",
+    "AGENTS.md": "eebb1f50d8def680f7b9873dd9bf151f4833dfd4f19cb0e334e361988ab7efe6",
+    "CHANGELOG.md": "da0e79796e341d2e3a0f758b65277b401b2b2d79fe45a443a15f3d4f33d4db83",
+    "LICENSE": "839adff6dae6eeaa7b22af2e888d7a45fc817e5f5ffaa4dfe03a6903b8112f57",
+    "README.md": "c3ff235cfc1ec6160d1290f9c33b6021f590783083ea278b87fa2729b1110417",
+    "browser-kit.md": "68174c957f6ad7bc6441b290fcb27a50a9abd942fe9119f8d51e7a09da90c017",
+    "plugin.json": "a53cb6401dfb2ec38362f9ae3b954da0e10fcf77c702262f545f7e13dc7b8a2b",
+    "skills/tlab-deck/SKILL.md": "16b26ed52005b7659e694b306c090bf60b5298e6b3d55770867d943bbfa945ae",
+    "skills/tlab-deck/agents/openai.yaml": "9b1852281ba052e712f31a19c93f869d3023485f6d008390d90a1d97557dde40",
+    "skills/tlab-deck/assets/licenses/jetbrainsmono-OFL.txt": "b2fe5e8987594e9ffd1d2ca52a2f5d73eb8335243893c5d6254b5ad69269591d",
+    "skills/tlab-deck/assets/licenses/onest-OFL.txt": "071195d8806e226faeee60259c28ca67b458227af5195a73f5cfcab06e3003bc",
+    "skills/tlab-deck/assets/licenses/unbounded-OFL.txt": "31e5d4e83955e7103c34570dd49b0570ef490800bd65b42923c0dd02445263b3",
+    "skills/tlab-deck/assets/logo-white.svg": "c9417f00e430f1390352353970352c700e62a80deda672e2a4d4382ff4a8fa0c",
+    "skills/tlab-deck/assets/starter.html": "0d219e4821dd8483fb55a0a27ee3d1540a2a7f60ac9d7586f6d8dcdada88a99b",
+    "skills/tlab-deck/package.json": "cd8e6707cad05d2afb849ae6900c6283fe4425d446dfc1a45c09a9d0be4b5fb9",
+    "skills/tlab-deck/references/html.md": "fc284dd90ec98a233cda5154a6eeec7cafb81ccc46f0785effa9bfd7ce318a89",
+    "skills/tlab-deck/references/style.md": "85be74ea5ad81719c8c2e976782ca8913b65bde339f23f9ba774b54baae6c9c1",
+    "skills/tlab-deck/references/terminology.md": "3a13f054a4017b92c5198c525f9c3d47feccc107af2aafb77a9f4bb651c3f3c9",
+    "skills/tlab-deck/references/typography.md": "51fe3848c03efd4077c25866bd9966ef78d282841c46101b504f4acc6300b523",
+    "skills/tlab-deck/references/writing.md": "10e12ab53f0d8ab15b56262de5f46c6174672c04abffd9416042e7811e6948d4",
+    "skills/tlab-deck/scripts/render.mjs": "0417dee8bde4c27dc6e1de0f08aa538c706bcd1701bb7dfa6972f1c4be254e50",
+    "skills/tlab-deck/scripts/typography.py": "cbfb680b05de28c20cd075e93871e9c51ddb75e0d4d1a88e1f5356adf9cca8e0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "technolab-team",
+  "version": "0.1.0",
+  "description": "Инструменты команды ТехноЛаб АНД: презентации в фирменном стиле.",
+  "author": { "name": "ТехноЛаб АНД", "url": "https://lab.nand.ru/" },
+  "homepage": "https://github.com/and-technolab/technolab-team",
+  "repository": "https://github.com/and-technolab/technolab-team",
+  "license": "MIT",
+  "keywords": ["technolab", "presentations", "skills"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "ТехноЛаб · Команда",
+        "shortDescription": "Презентации ТехноЛаба со скиллом tlab-deck",
+        "developerName": "ТехноЛаб АНД",
+        "category": "Productivity",
+        "brandColor": "#12294D"
+      }
+    }
+  }
+}
+

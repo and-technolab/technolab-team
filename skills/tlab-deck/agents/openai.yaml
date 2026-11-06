@@ -1,0 +1,5 @@
+interface:
+  display_name: "tlab-deck"
+  short_description: "Презентации в фирменном стиле ТехноЛаб АНД"
+  default_prompt: "Используй $tlab-deck для презентации в стиле ТехноЛаба по моим материалам."
+
